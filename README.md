@@ -12,3 +12,6 @@
 
 ## GPT3.5开源带前后端vue.rar
 ### 下载地址：https://pan.saipancloud.com/s/UJfeuiL5kW
+
+## 2023年7月最新ChatGPT网页端源码 带三方支付.zip
+### 下载地址：https://pan.saipancloud.com/s/6VrQjiXTjU
