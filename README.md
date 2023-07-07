@@ -1,4 +1,5 @@
-# FreeChatGPT
+# 免费ChatGPT源码收集
+
 本项目意在收集网络上的ChatGPT商用源码，免费分享出来。
 
 ## 2023年ChatGPT商业版问答系统免授权源码AI只能绘画系统用户付费系统.zip
