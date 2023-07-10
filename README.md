@@ -2,7 +2,7 @@
 
 本项目通过扫描网盘内容收集网络上网盘的ChatGPT商用源码，免费分享出来。
 
-## go-proxy-bing基于New Bing的开源Bing AI源码，无需登录即可畅聊**
+## go-proxy-bing基于New Bing的开源Bing AI源码，无需登录即可畅聊
 ### 网盘链接：https://pan.saipancloud.com/s/J7RjqiIXGr
 
 ## 2023年ChatGPT商业版问答系统免授权源码AI只能绘画系统用户付费系统.zip
